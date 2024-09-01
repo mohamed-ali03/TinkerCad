@@ -1,0 +1,11 @@
+Smart Fan : https://www.tinkercad.com/things/4PqQHhHdJy4-smartfan?sharecode=q8334eEBGdE3cBa56jwKAVMtthj8VcqcSEaHFMpNVWw
+
+Smart Door : https://www.tinkercad.com/things/3gARfKFC3j3-door-status?sharecode=0K7TD5S3mTJ0rpMtHMCypF-S0t0lZ6ktwf1Lx18rk8Y
+
+H-Bridge using Relays : https://www.tinkercad.com/things/4o3HXOawhdN-h-bridge-using-relays?sharecode=MbX7yrcY6pAKHSU0RfpjYTHzakHhouuwi9_ynBdqfDo
+
+H-Bridge using transistors : https://www.tinkercad.com/things/6YFYGOaRduv-h-bridge-using-transistors?sharecode=Bw4ASq7NRTaMKXenq0HMSDRpoMMAyu0FR8UUtD9TbgU
+
+Control Motor using Opocoupler : https://www.tinkercad.com/things/6zAKlaezI3Z-controlmotorusingopocoupler?sharecode=0tcU7hpg4YC6JNrGmcu0YGweJa40UW01i9mwK80_234
+
+Control Brightness using Arduino uno : https://www.tinkercad.com/things/2qapNNwXlt6-controlbrightness
